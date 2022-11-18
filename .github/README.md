@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ALONE MUSIC 2.0 ❤️</b></h1>
+<h1 align="center"><b>❤️ ALONE MUSIC ❤️</b></h1>
 
 <h4 align="center">Alone A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
@@ -17,7 +17,7 @@
 
 ### Alone – History
 
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://www.youtube.com/ALONE_WAS_BOT"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 ## Features ❤️”®
 
